@@ -103,7 +103,7 @@
               else
               {
                 //no data
-                echo "Add admins to display here.";
+                echo "Add AD to display here.";
               }
             }
 
