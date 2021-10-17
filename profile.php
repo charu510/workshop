@@ -103,7 +103,7 @@
               else
               {
                 //no data
-                echo "No admins in database. Add admins ";
+                echo "Add admins to display here.";
               }
             }
 
